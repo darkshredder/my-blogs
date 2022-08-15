@@ -25,7 +25,7 @@ author:
 url: "https://darkshredder.codes" #
 baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: UA-237522785-2
 fb_appid:
 
 # Collection setting
@@ -63,6 +63,7 @@ number_of_posts: 5
 
 # Build settings
 # theme: darkshredder
+remote_theme: jekyll/minima
 sass:
   style: compressed
 
@@ -89,3 +90,4 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-postfiles
+  - jekyll-remote-theme
