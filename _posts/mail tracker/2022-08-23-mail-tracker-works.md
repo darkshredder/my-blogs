@@ -11,7 +11,7 @@ So it began when I was trying to add mailtrack for tracking whether my email is 
 
 <!-- Import image -->
 
-![Access required by mailtrack](mailtrack access.png)
+![Access required by mailtrack](mail track access.png)
 
 # What I did then?
 
