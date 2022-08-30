@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building Workspace Switcher for MX Master 3"
-date: 2022-08-31 03:29:20 +05:30
+date: 2022-08-31 01:29:20 +05:30
 categories: darkshredder blogs journey begins mx mx-master mx-master-3 workspace-switcher horizontal-scroll
 ---
 
