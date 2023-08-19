@@ -1,7 +1,7 @@
 # Darkshredder
 
 Darkshredder is minimalist Jekyll theme for running a personal site and blog running on Jekyll.<br>
-For demo <a href="https://darkshredder.codes" target="_blank" rel="noopener">darkshredder.codes</a>
+For demo <a href="https://blogs.darkshredder.com" target="_blank" rel="noopener">blogs.darkshredder.com</a>
 
 ## Features
 
